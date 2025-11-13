@@ -13,10 +13,10 @@ mst-replacement/
        └── MSTReplacer.java 
 
 ## How to Run
-
+```bash
 git clone https://github.com/yourusername/mst-replacement.git
 cd mst-replacement
-
+```
 ## How It Works
 
 ### 1. MST Construction (Kruskal's Algorithm)
