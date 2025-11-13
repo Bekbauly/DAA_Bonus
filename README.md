@@ -1,7 +1,7 @@
 # DAA_Bonus
 
 ## Project Structure
-
+```bash
 mst-replacement/
 ├── README.md                 
 ├── src/
@@ -11,7 +11,7 @@ mst-replacement/
        ├── Edge.java        
        ├── UnionFind.java   
        └── MSTReplacer.java 
-
+```
 ## How to Run
 ```bash
 git clone https://github.com/yourusername/mst-replacement.git
